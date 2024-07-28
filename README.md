@@ -1,6 +1,6 @@
 # Flutter Trading App `v1.0.0`
 
-🔗 Visit [Live Web App](https://usamasarwar.github.io/flutter-trading-app)
+
 
 ## Screenshoots
 
@@ -76,6 +76,3 @@ dependencies:
   # Dependency for Web Socket Channels
   web_socket_channel: ^2.1.0
 ```
-
-## Developer
-[Usama Sarwar](https://github.com/UsamaSarwar)
